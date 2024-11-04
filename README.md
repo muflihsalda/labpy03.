@@ -27,11 +27,11 @@ Mata kuliah : Bahasa pemrograman <p>
 
 
 ### Program python
-![gambar1](![ft1](https://github.com/user-attachments/assets/40ab9e2a-3ac0-4aa9-8ede-26d20cbc3acf)
+![gambar1](![ft1](![latihan1](https://github.com/user-attachments/assets/f012860c-da40-4a3d-8317-01a88ac55ec7)
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](![ft2](https://github.com/user-attachments/assets/965be416-eaad-4c19-bf11-1de933845809)
+![gambar1](![ft2](![hasil latihan1](https://github.com/user-attachments/assets/f7c54846-5e31-48fc-ac23-c5c6d6e2024e)
 
 ## `Latihan2: Laba`
 ### Alur Algoritma Latihan2 :
@@ -54,19 +54,15 @@ ini hasil eksekusi program python diatas
  8. Selesai:
     - Program selesai.
       ### Program python
-![gambar1](![latihan1](https://github.com/user-attachments/assets/52c9404c-3115-4fdd-8fda-8d0ccd36e2c8)
+![gambar1](![latihan1](![latihan2](https://github.com/user-attachments/assets/cfcf7630-6774-41ca-a14f-e595f5967f88)
+
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](![hasil latihan1](https://github.com/user-attachments/assets/5eb27582-5721-4e2b-b512-05e315a0bf59)
-)
+![gambar1](![hasil latihan1](![hasil latihan2](https://github.com/user-attachments/assets/b8312631-30b8-4c73-981d-26431abe04cf)
+
 
 ## `Latihan3: Mesin atm`
-### Flowchart
-![gambar1](![latihan3](https://github.com/user-attachments/assets/1a973cfe-6b7c-409f-8330-b603176585d8)
-
-![gambar1]()
-
 ### Alur Algoritma Latihan3 :
  1. Mulai Program:
     - Inisialisasi saldo awal sebesar Rp 1.00.000.000.
@@ -94,9 +90,8 @@ ini hasil eksekusi program python diatas
 
 ### Program python
 seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadikan sebuah program python
-![gambar1](screenshot/ft3.png)
+![gambar1](![latihan3](https://github.com/user-attachments/assets/0b465ae7-1a23-4a7b-ac32-03583eaa22ac)
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft4.png)
-    
+![gambar1](![hasil latihan 3](https://github.com/user-attachments/assets/da151f9d-7932-42f8-b7c7-ec0e2e78782d)   
