@@ -54,15 +54,18 @@ ini hasil eksekusi program python diatas
  8. Selesai:
     - Program selesai.
       ### Program python
-![gambar1](screenshot/ft7.png)
+![gambar1](![latihan1](https://github.com/user-attachments/assets/52c9404c-3115-4fdd-8fda-8d0ccd36e2c8)
+
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft8.png)
+![gambar1](![hasil latihan1](https://github.com/user-attachments/assets/5eb27582-5721-4e2b-b512-05e315a0bf59)
+)
 
 ## `Latihan3: Mesin atm`
 ### Flowchart
-![gambar1](screenshot/ft1.png)
-![gambar1](screenshot/ft2.png)
+![gambar1](![latihan3](https://github.com/user-attachments/assets/1a973cfe-6b7c-409f-8330-b603176585d8)
+
+![gambar1]()
 
 ### Alur Algoritma Latihan3 :
  1. Mulai Program:
