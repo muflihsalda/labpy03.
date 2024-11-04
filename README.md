@@ -1,4 +1,4 @@
-# labpy03.
+![ft2](https://github.com/user-attachments/assets/435b7319-d8e4-4948-b5dd-a904514aba4c)# labpy03.
 
 Nama : Muflih Salda Maulana <p>
 Nim : 312410527 <p>
@@ -31,7 +31,7 @@ Mata kuliah : Bahasa pemrograman <p>
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft6.png)
+![gambar1](![ft2](https://github.com/user-attachments/assets/965be416-eaad-4c19-bf11-1de933845809)
 
 ## `Latihan2: Laba`
 ### Alur Algoritma Latihan2 :
