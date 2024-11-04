@@ -27,7 +27,8 @@ Mata kuliah : Bahasa pemrograman <p>
 
 
 ### Program python
-![gambar1](screenshot/ft5.png)
+![gambar1](![ft1](https://github.com/user-attachments/assets/40ab9e2a-3ac0-4aa9-8ede-26d20cbc3acf)
+
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
 ![gambar1](screenshot/ft6.png)
