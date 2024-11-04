@@ -1,4 +1,4 @@
-![ft2](https://github.com/user-attachments/assets/435b7319-d8e4-4948-b5dd-a904514aba4c)# labpy03.
+!labpy03.
 
 Nama : Muflih Salda Maulana <p>
 Nim : 312410527 <p>
