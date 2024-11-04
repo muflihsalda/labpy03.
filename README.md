@@ -1,7 +1,7 @@
 # labpy03.
 
-Nama : Sayyid Sulthan Abyan <p>
-Nim : 312410496 <p>
+Nama : Muflih Salda Maulana <p>
+Nim : 312410527 <p>
 Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa pemrograman <p>
 
